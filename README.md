@@ -1,7 +1,4 @@
 # Baslx0
-
-**Baslx0**
-
 I turn problems, needs, and ideas into useful digital solutions and products.
 
 I am building my professional path in IT while developing practical capabilities across product building, software, automation, and AI-assisted development. I enjoy taking an unclear idea, understanding the problem behind it, shaping the workflow and user experience, and turning it into something real, testable, and useful.
